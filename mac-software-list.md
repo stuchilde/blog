@@ -1,0 +1,34 @@
+# Mac常用软件列表
+
+- **Iterm2**
+- **Visual Studio Code**
+- **Sublime Text**
+- **Typora**
+- **Netease Music**
+- **Dash**
+- **Transmit**
+- **Shadowsocks**
+- **Movist**
+- **Google Chrome**
+- **Aria2GUI**
+- **Postman**
+- **Youdao Note**
+- **Instant  Translate**
+- **Charles**
+- **Sequel Pro**
+- **LICEcap**
+- **iPic**
+- **Boostnote**
+- **Alfred 3**​
+- **INNA**
+- **PicGo**
+- **Xnip**
+- **XMind ZEN**
+- **Notion**
+- **NetWorker Pro**
+- **Sequel Pro**
+- **Visual Studio Code**
+- **eZip**
+- **Kap**
+- **Mate Translate**
+- **Final Cut Pro**
